@@ -56,5 +56,5 @@ AI-powered interview and exam preparation assistant with quiz generation and NLP
 ## 📫 Contact
 
 📧 ishaamrit7979@gmail.com  
-🔗 LinkedIn: linkedin.com/in/isha-amrit-b28a1a305/
+🔗 LinkedIn: https://www.linkedin.com/in/isha-amrit-b28a1a305/
 💻 GitHub: https://github.com/isha950
